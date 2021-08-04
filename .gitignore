@@ -1,0 +1,10 @@
+# file: ~/.gitignore_global
+/shelf/
+<<<<<<< HEAD
+project4/.idea/
+*.iml
+/workspace.xml
+=======
+.idea
+*.iml
+>>>>>>> 2b10e36c1d254a5462329cfe92791c74dc21eaaa
